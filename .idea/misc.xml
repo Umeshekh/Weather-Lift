@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/WeatherLift/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/WeatherLift/app/src/main/res/drawable/card_back.xml" value="0.1" />
+        <entry key="..\:/WeatherLift/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/WeatherLift/app/src/main/res/layout/weather_rv_item.xml" value="0.25416666666666665" />
       </map>
     </option>
   </component>
