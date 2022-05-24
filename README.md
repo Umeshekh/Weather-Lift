@@ -4,7 +4,7 @@
 
 <h1 align="center">WeatherApp</h1>
 
-<p align="center">:sun_behind_small_cloud: An awesome Android weather forecast app, which uses OpenWeatherMap API. :open_umbrella::cloud_with_lightning_and_rain: ( Java, Android Studio ) </p>
+<p align="center">:sun_behind_small_cloud: An awesome Android weather forecast app, which uses weatherapi API. :open_umbrella::cloud_with_lightning_and_rain: ( Java, Android Studio ) </p>
 
 <p align="center">
   <strong>
@@ -19,19 +19,19 @@
 </p>
 
 <p align="center">
-  <img src="./images/home.jpg" height="auto" width="30%"  alt="home"/> &emsp;
-  <img src="./images/search.jpg" height="auto" width="30%"  alt="search"/> &emsp;
+  <img src="./images/day.png" height="10%" width="30%"  alt="day"/> &emsp;
+  <img src="./images/night.png" height="10%" width="30%"  alt="night"/> &emsp;
 </p> 
 
 <p align="center"> 
-  <img src="./app/src/main/res/drawable/w01d.png" height="auto" width="8%" alt="w01d"/>
-  <img src="./app/src/main/res/drawable/w13d.png" height="auto" width="8%" alt="w13d"/> 
-  <img src="./app/src/main/res/drawable/w04d.png" height="auto" width="8%" alt="w04d"/> 
-  <img src="./app/src/main/res/drawable/w09d.png" height="auto" width="8%" alt="w09d"/> 
-  <img src="./app/src/main/res/drawable/w10d.png" height="auto" width="8%" alt="w10d"/> 
-  <img src="./app/src/main/res/drawable/w11d.png" height="auto" width="8%" alt="w11d"/> 
-  <img src="./app/src/main/res/drawable/w02d.png" height="auto" width="8%" alt="w02d"/> 
-  <img src="./app/src/main/res/drawable/w03d.png" height="auto" width="8%" alt="w03d"/> 
+  <img src="./images/w01d.png" height="auto" width="8%" alt="w01d"/>
+  <img src="./images/w13d.png" height="auto" width="8%" alt="w13d"/> 
+  <img src="./images/w04d.png" height="auto" width="8%" alt="w04d"/> 
+  <img src="./images/w09d.png" height="auto" width="8%" alt="w09d"/> 
+  <img src="./images/w10d.png" height="auto" width="8%" alt="w10d"/> 
+  <img src="./images/w11d.png" height="auto" width="8%" alt="w11d"/> 
+  <img src=".images/w02d.png" height="auto" width="8%" alt="w02d"/> 
+  <img src="./images/w03d.png" height="auto" width="8%" alt="w03d"/> 
 </p> 
 
 ## About
@@ -50,7 +50,7 @@ Some of the features the project includes:
 ### Built with
 
 - [Android Studio](https://developer.android.com/studio) - Android Studio is the official Integrated Development Environment (IDE) for Android app development, based on IntelliJ IDEA.
-- [OpenWeatherMap](https://openweathermap.org/) - OpenWeatherMap is an online service that provides global weather data via API, including current weather data, forecasts, nowcasts and historical weather data for any geographical location.
+- [weatherapi](https://www.weatherapi.com/) - weatherapi is an online service that provides global weather data via API, including current weather data, forecasts, nowcasts and historical weather data for any geographical location.
 
 ## Usage
 
