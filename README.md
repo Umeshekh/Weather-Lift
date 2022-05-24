@@ -63,3 +63,5 @@ In order to use the project, you first need your own OpenWeatherMap API key:
 If you are having technical issues or want to raise a bug/issue with the app, the preferred way is through [GitHub issues](https://github.com/enessfk/WeatherApp/issues). In order to contact with me for any other request please send an email to: **umeshekhande100@gmail.com**
 
 ## License
+Copyright (c) 2022 umesh ekhande
+
