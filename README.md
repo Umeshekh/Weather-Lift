@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="110" height="auto" src="./images/logo.png" alt="logo">
+  <img width="110" height="auto" src="./images/cloudy.png" alt="logo">
 </p>
 
 <h1 align="center">WeatherApp</h1>
